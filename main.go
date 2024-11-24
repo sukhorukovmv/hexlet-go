@@ -1,7 +1,7 @@
 package main
 
 import (
-	"hexlet-go/greeting"
+	"hexlet-go/v2/greeting"
 
 	"github.com/fatih/color"
 )
