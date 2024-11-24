@@ -1,3 +1,3 @@
 # hexlet-go
 
-simple go project
+simple go project. Created for hexlet course "Go: Setting envinronment"
