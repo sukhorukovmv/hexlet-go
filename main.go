@@ -1,10 +1,12 @@
 package main
 
 import (
-	"fmt"
 	"hexlet-go/greeting"
+
+	"github.com/fatih/color"
 )
 
 func main() {
-    fmt.Println(greeting.Hello())
+    msg := color.New(color.Bold, color.FgGreen).PrintlnFunc()
+    msg(greeting.Hello())
 }
