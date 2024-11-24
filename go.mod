@@ -1,4 +1,4 @@
-module hexlet-go
+module hexlet-go/v2
 
 go 1.23.2
 
